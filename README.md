@@ -12,7 +12,7 @@ OR follow gitbash commands
 
 4. i>cd C:\\xampp\htdocs\
 
-5. ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-advanced.git
+5. ii>git clone https://github.com/Karwann/Online-Grocery-shopping.git
 6. extract files in C:\xampp\htdocs.
 
 7. open link localhost/phpmyadmin
