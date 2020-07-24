@@ -1,4 +1,4 @@
-# Online-Grocery-shopping-
+# Online Grocery shopping
 An online Grocery Shoping system for Shoping Online over the web and generating various reports from it. Intended and designed considering the operation of TIU (Tishik International University) it can be used by other developers as well if it fits their needs (feel free to suggest changes). We always aim to make this more and more flexible so that it can be used by any developer or user. Developed by one students of Computer Engineering as part of their final year academic project (2019-2020) which falls under TIU.
 
 # Installation Intstructions
